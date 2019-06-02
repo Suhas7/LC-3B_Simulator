@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab_3" targetName="lab_3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9355f5a-6c09-4196-9f3c-f8c531141992" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lc3bsim.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="770" column="31" selection-start-line="770" selection-start-column="31" selection-end-line="770" selection-end-column="31" />
+              <folding>
+                <element signature="e#580#599#0" expanded="true" />
+                <element signature="e#2346#2753#1" />
+                <element signature="e#6290#6999#0" />
+                <element signature="e#7708#8283#0" />
+                <element signature="e#10212#10549#0" />
+                <element signature="e#11013#11971#0" />
+                <element signature="e#12435#14329#0" />
+                <element signature="e#14727#15696#0" />
+                <element signature="e#16094#17813#0" />
+                <element signature="e#18193#18387#0" />
+                <element signature="e#18855#20021#0" />
+                <element signature="e#20514#21128#0" />
+                <element signature="e#21394#21971#0" />
+                <element signature="e#22490#23469#0" />
+                <element signature="e#23945#24804#0" />
+                <element signature="e#24922#25393#0" />
+                <element signature="e#25395#25873#0" />
+                <element signature="e#25874#26161#0" />
+                <element signature="e#26162#26433#0" />
+                <element signature="e#26434#26686#0" />
+                <element signature="e#27563#27938#0" />
+                <element signature="e#28206#28722#0" />
+                <element signature="e#28723#28913#0" />
+                <element signature="e#28914#29302#0" />
+                <element signature="e#29222#29534#0" />
+                <element signature="e#29406#29539#0" />
+                <element signature="e#29540#29946#0" />
+                <element signature="e#29974#30233#0" />
+                <element signature="e#30234#30455#0" />
+                <element signature="e#30572#30887#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shuffle.obj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LD_</find>
+      <find>main</find>
+      <find>exit(-1</find>
+      <find>CONTROL_STORE_ROWS</find>
+      <find>cStire</find>
+      <find>cycle_m</find>
+      <find>fix this</find>
+      <find>isWrite</find>
+      <find>control store error</find>
+      <find>MEMORY</find>
+      <find>LD_PC</find>
+      <find>LD_BEN</find>
+      <find>BUS =</find>
+      <find>BUS=</find>
+      <find>evalAddR</find>
+      <find>byte</find>
+      <find>cycle_me</find>
+      <find>shift</find>
+      <find>CYCLE_C</find>
+      <find>evalAddr</find>
+      <find>CYCLE_MEMOR</find>
+      <find>cycle_memory</find>
+      <find>latchMDR</find>
+      <find>Gate_MDR</find>
+      <find>latchCC</find>
+      <find>LEA</find>
+      <find>cycle_mem</find>
+      <find>evalMDR</find>
+      <find>//todo</find>
+      <find>MARMUX</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/shuffle.obj" />
+        <option value="$PROJECT_DIR$/lc3bsim.c" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1000" />
+    <option name="height" value="666" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab_3" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="ucode.txt memtest.obj" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab_3" TARGET_NAME="lab_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab_3" RUN_TARGET_NAME="lab_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9355f5a-6c09-4196-9f3c-f8c531141992" name="Default Changelist" comment="" />
+      <created>1551485344536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551485344536</updated>
+      <workItem from="1551485346523" duration="10869000" />
+      <workItem from="1551588734247" duration="2310000" />
+      <workItem from="1551639432118" duration="2404000" />
+      <workItem from="1551642439748" duration="262000" />
+      <workItem from="1551647992903" duration="7452000" />
+      <workItem from="1551721149560" duration="3427000" />
+      <workItem from="1551743313464" duration="4688000" />
+      <workItem from="1551839625289" duration="4162000" />
+      <workItem from="1551890369782" duration="2010000" />
+      <workItem from="1551901159365" duration="98000" />
+      <workItem from="1551986018323" duration="22697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60379000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="1013" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123024054" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46772367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2729332" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3295583" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.4813137" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="CMake" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="CURRENT_LATCHES" language="ObjectiveC" />
+        <watch expression="NEXT_LATCHES" language="ObjectiveC" />
+        <watch expression="BUS" language="ObjectiveC" />
+        <watch expression="((CURRENT_LATCHES.MDR&amp;0x0FF00)&gt;&gt;8)" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>((CURRENT_LATCHES.MDR&amp;0x0FF00)&gt;&gt;8)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(CURRENT_LATCHES.MAR%2)==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>CURRENT_LATCHES.MAR%2</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>CURRENT_LATCHES</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(MEMORY[CURRENT_LATCHES.MAR/2][0] &amp; 0x0FF) + ((MEMORY[CURRENT_LATCHES.MAR/2][1] &amp; 0x0FF) &lt;&lt; 8)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MEMORY[CURRENT_LATCHES.MAR/2][0]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GetDATA_SIZE(cStore)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GetR_W(CONTROL_STORE[CURRENT_LATCHES.STATE_NUMBER])</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>memCycleCount</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GetDATA_SIZE(CONTROL_STORE[CURRENT_LATCHES.STATE_NUMBER])</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shuffle.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembler.linux">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-733" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lc3bsim.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="770" column="31" selection-start-line="770" selection-start-column="31" selection-end-line="770" selection-end-column="31" />
+          <folding>
+            <element signature="e#580#599#0" expanded="true" />
+            <element signature="e#2346#2753#1" />
+            <element signature="e#6290#6999#0" />
+            <element signature="e#7708#8283#0" />
+            <element signature="e#10212#10549#0" />
+            <element signature="e#11013#11971#0" />
+            <element signature="e#12435#14329#0" />
+            <element signature="e#14727#15696#0" />
+            <element signature="e#16094#17813#0" />
+            <element signature="e#18193#18387#0" />
+            <element signature="e#18855#20021#0" />
+            <element signature="e#20514#21128#0" />
+            <element signature="e#21394#21971#0" />
+            <element signature="e#22490#23469#0" />
+            <element signature="e#23945#24804#0" />
+            <element signature="e#24922#25393#0" />
+            <element signature="e#25395#25873#0" />
+            <element signature="e#25874#26161#0" />
+            <element signature="e#26162#26433#0" />
+            <element signature="e#26434#26686#0" />
+            <element signature="e#27563#27938#0" />
+            <element signature="e#28206#28722#0" />
+            <element signature="e#28723#28913#0" />
+            <element signature="e#28914#29302#0" />
+            <element signature="e#29222#29534#0" />
+            <element signature="e#29406#29539#0" />
+            <element signature="e#29540#29946#0" />
+            <element signature="e#29974#30233#0" />
+            <element signature="e#30234#30455#0" />
+            <element signature="e#30572#30887#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/suhas/Google Drive/College/EE460N/labs/lab6/lc3bsim6.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+

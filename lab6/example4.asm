@@ -1,0 +1,12 @@
+.ORIG x3000 ;tests LDB, LDW, STB, and STW
+LEA R0, ldat
+LDB R5, R0, #0
+LDB R6, R0, #3
+STB R6, R0, #2
+STW R3, R0, #-1
+HALT
+.FILL x1234
+ldat .FILL x5678
+.FILL x9ABC
+.FILL xDEF1
+.END

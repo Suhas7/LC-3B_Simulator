@@ -1,0 +1,25 @@
+.ORIG x1200
+ADD R6, R6, #-2
+STW R4, R6, #0
+ADD R6, R6, #-2
+STW R5, R6, #0
+ADD R6, R6, #-2
+STW R0, R6, #0
+
+LEA R4, tmpAddy
+LDW R0, R4, #0
+LDB R5, R0, #0
+ADD R5, R5, #1
+STB R5, R0, #0
+
+LDW R0, R6, #0
+ADD R6, R6, #2
+LDW R5, R6, #0
+ADD R6, R6, #2
+LDW R4, R6, #0
+ADD R6, R6, #2
+
+RTI
+tmpAddy .FILL 0x4000
+
+.END
